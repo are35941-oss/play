@@ -1,0 +1,8 @@
+{
+  "name": "GlowSMP S2",
+  "description": "Official community hub and live server status portal for GlowSMP Season 2 (play.glowsmp.bond), founded by Tiger_God__.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
